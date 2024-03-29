@@ -2,7 +2,7 @@
 
 ## Summary
 
-This script provide a method to:
+This script provides a method to:
 1. stay authenticated with Disney's APIs
 2. continually poll Disney's endpoints
 3. send a text when a certain condition is met
